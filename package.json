@@ -5,6 +5,6 @@
   "unity": "2022.3",
   "author": { "name": "Momos" },
   "dependencies": {
-    "com.momos.momoseditortoolkit": "https://github.com/amomiao/MomosEditorToolkit.git#v1.0.0"
+    "com.momos.momoseditortoolkit": "https://github.com/amomiao/MomosEditorToolkit.git#v1.0.1"
   }
 }
